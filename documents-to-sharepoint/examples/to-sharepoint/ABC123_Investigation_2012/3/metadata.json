@@ -1,0 +1,15 @@
+{
+  "DocumentId": 12003,
+  "Version": 3,
+  "Name": "My First Crime Case and my analysis (1)",
+  "Extension": ".txt",
+  "ClientCode": "ABC123",
+  "ContactFirstName": "",
+  "ContactSurname": "",
+  "AuthorFirstName": "Sherlock",
+  "AuthorSurname": "Holmes",
+  "AuthorUniqueId": "Sholmes",
+  "DateCreated": "2012-06-30T03:34:10.890",
+  "AssignmentCode": "Investigation",
+  "AssignmentJob": "2012"
+}
