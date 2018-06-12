@@ -35,7 +35,7 @@ All documents are versioned. Each version of the file is preserved in the it’s
 ## Folder Structure ## 
 
 ```bash
-to-sharepoint (top directory)
+to-filesystem (top directory)
 |
 +-- directory with "ClientCode_AssignmentCode_AssignmentJob" or "ContactFirstName_ContactSurname_AssignmentCode_AssignmentJob" mask
     |

@@ -1,7 +1,7 @@
 Example of 2 documents (1st has 4 versions, 2nd has 2).
 
 ```bash
-to-sharepoint
+to-filesystem
 |
 +-- ABC123_Investigation_2010
     |
