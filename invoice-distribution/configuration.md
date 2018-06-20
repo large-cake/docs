@@ -10,16 +10,17 @@ Contacts, that act as accounts payable for clients, need to have primary e-mails
 
 Any invoices for clients that either do not have accounts payable relationship and no primary e-mail address configured in contact that acts as accounts payable for that client, would be skipped by Invoice Distribution.
 
-Please note that following configuration is required:
+Please note that following single relationship is required:
 
-* **Client A "has accounts payable" contact B**
+Association:
+* **is accounts payable for**
 
-or
-* **Contact B "is an accounts payable of" client A**
+Opposite Association:
+* **has accounts payable of**
 
 ## Extra Field ##
 
-Invoice Distribution uses "DistributionType" extra field.
+Invoice Distribution uses "**Credit Control Prefs**" extra field.
 
 Please configure this extra field with following options and apply to relevant clients:
 
