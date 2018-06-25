@@ -2,7 +2,7 @@
 
 Please review requested requirements below and provide us with feedback on each requested point. 
 
-In some cases we would not be able to proceed with work/project until all requested requirements are fullfilled and confirmed by e-mail.
+In some cases, we would not be able to proceed with work/project until all requested requirements are fulfilled and confirmed by e-mail.
 
 ## Access Requirement (ref: AR) ##
 
@@ -15,7 +15,7 @@ However, we have following preferences:
 1. The sessions to be "switchable", so that we can reconnect into the same session from different PC, without having to request new session credentials (*ref: AR-3*).
 1. Any timeouts (screen locks, etc.) are configured to be off (*ref: AR-4*).
 
-*Please inform us about any periods during which the access would not be available (system maintanence, etc.) (ref: AR-5).*
+*Please inform us about any periods during which the access would not be available (system maintenance, etc.) (ref: AR-5).*
 
 ## Directory Requirement (ref: DR) ##
 
@@ -27,7 +27,7 @@ Single directory is required to store work files:
 
 ## Internet Access (ref: IA) ##
 
-In some cases we might require to download/upload work files.
+In some cases, we might require to download/upload work files.
 
 Please provide following:
 
@@ -70,7 +70,7 @@ Permissions including:
 1. Copy (*ref: ADA-2*).
 1. Modify (including Delete) (*ref: ADA-3*).
 
-## Switching Off The Application (ref: SOTA) ##
+## Switching Off the Application (ref: SOTA) ##
 
 We might require exclusive access to the application to perform required actions.
 
@@ -91,7 +91,7 @@ Please arrange following:
 
 1. Notify users they **will not be able to access the system** during specified window (*ref: NU-1*).
 1. Notify users they **will lose any unsaved work** if the system is not closed prior to the specified window (*ref: NU-2*).
-1. Notify users they have to close the system before specified window (*ref: NU-3*).
+1. Notify users they will have to close the system before specified window (*ref: NU-3*).
 1. Provide access to ***Computer Management -> Shared Folders -> Sessions -> clear all locks***, so that we can reset any session left open on all servers we require access to (*ref: NU-4*).
 1. Send us confirmation that all users have been notified about scheduled window of work (*ref: NU-5*).
 
@@ -111,11 +111,11 @@ We require following:
 1. Schedule additional backups on our request (*ref: DB-2*).
 1. Provide us with required access credentials and the ability to restore database(s) (*ref: DB-3*).
 1. Inform us about any steps required to be performed post restore (*ref: DB-4*).
-1. Inform us about the type of backups: incremental/full with transaction logs or without (*ref: DB-5*).
+1. Inform us about the type of backups: incremental/full, transaction logs included/excluded (*ref: DB-5*).
 
 Once additional backups are arranged:
 
-1. Inform us about approximate time backup is likely to complete. In some cases full database backups can take long time to complete, so please let us know when they are normally completed by (*ref: DB-6*).
+1. Inform us about approximate time backup is likely to complete. In some cases, full database backups can take long time to complete, so please let us know when they are normally completed by (*ref: DB-6*).
 1. The exact name and location of backup taken or scheduled (*ref: DB-7*).
 
 Please ensure that there is enough space to complete requested backups. If full backups are requested or done during existing backup schedule, please inform us:
