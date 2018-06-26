@@ -40,3 +40,23 @@ Following scenarios detail other combinations and which e-mail address will be u
 1. Client without accounts payable relationship and no e-mail address - entries will be skipped.
 1. Contact without e-mail address but with accounts payable, which doesn't have e-mail specified - entries will be skipped.
 1. Client with accounts payable (a), who in turn also has an accounts payable (b) - e-mail address of accounts payable (a) will be used.
+
+## E-mail Template ##
+
+Invoice Distribution uses default e-mail template post installation.
+
+Please review the template and inform us of any changes to default template text.
+
+E-mail Subject: **Monthly Feenote**
+
+    Dear <recipient's name>, 
+
+    Please find attached your <"bill" or "VAT invoice"> covering this month’s fixed fee payment.
+
+    The payment is taken by direct debit around the 15th of each month.
+
+    Kind regards,
+
+    Accounts Team
+
+    Please do not hesitate to contact us, should you have any queries <e-mail address>
