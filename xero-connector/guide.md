@@ -8,7 +8,7 @@ Following fields are populated for each cash header record:
 1. Total - total amount on all cash lines, including VAT
 1. SubTotal - total amount without VAT
 1. TotalTax - total amount of VAT on all cash lines
-1. Reference - unique identifier in the source system
+1. Reference - unique identifier (ReceiptId) in the source system
 1. Contact - client/contact in the source system
 1. Type - either **SPEND** (for negative amounts) or **RECEIVE** (for positive or zero amounts)
 1. Line Amount Types - either **INCLUSIVE** or **NOTAX** (for zero amounts)
@@ -20,7 +20,7 @@ Following fields are populated for each cash header record:
 
 Following fields are populated for each cash line:
 
-1. Description - unique reference from the source system
+1. Description - unique reference (CashLineId) in the source system
 1. Tax Amount - VAT on the line
 1. Amount - total amount including VAT
 1. Tax Type - either **OUTPUT2** (for positive amounts), **INPUT2** (for negative amounts) or **NONE** (for exempt or zero amounts).
